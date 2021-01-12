@@ -124,13 +124,12 @@ http://ec2-3-21-103-165.us-east-2.compute.amazonaws.com/topsecret_split/skywalke
 ``` 
 
 
-● Repositorio: https://github.com/juan-acosta-cbit/MLChallenge.git
+● Repositorio: https://github.com/juan-acosta-cbit/ML-Challenge.git
 
-● Documentación paso a paso: https://github.com/juan-acosta-cbit/MLChallenge/blob/main/README.md
+● URL del servicio: http://ec2-3-21-103-165.us-east-2.compute.amazonaws.com/topsecret
 
-● Documentación del proyecto: https://github.com/juan-acosta-cbit/MLChallenge/blob/main/README.md
 
-● URL del servicio: http://3.16.66.117:8081/topsecret
+Creditos: Juan Carlos Acosta Ramirez
   
   
   
