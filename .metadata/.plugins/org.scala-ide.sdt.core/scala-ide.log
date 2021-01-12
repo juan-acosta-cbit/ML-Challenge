@@ -1,0 +1,6 @@
+2021-01-08 11:47:57,449 ERROR [main] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob).
+2021-01-08 11:47:57,450 ERROR [main] - System.err - log4j:WARN Please initialize the log4j system properly.
+2021-01-11 16:14:27,723 ERROR [Worker-3] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2021-01-11 16:14:27,723 ERROR [Worker-3] - System.err - log4j:WARN Please initialize the log4j system properly.
+2021-01-11 17:00:57,999 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2021-01-11 17:00:58,015 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.

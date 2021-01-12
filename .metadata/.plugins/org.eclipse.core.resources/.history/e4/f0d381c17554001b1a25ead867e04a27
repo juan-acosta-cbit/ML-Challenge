@@ -1,0 +1,5 @@
+package com.starwars.quasar.configuration;
+
+public class SwaggerConfig {
+
+}
